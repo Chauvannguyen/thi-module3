@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Phone X",
+      "description": "iphone X mới 100%",
+      "price": "17.000.000"
+    },
+    {
+      "id": "2",
+      "name": "Phone 11",
+      "description": "iphone 11 mới 99%",
+      "price": "18.000.000"
+    },
+    {
+      "id": "3",
+      "name": "Phone 12",
+      "description": "iphone 12 pin 85%",
+      "price": "19.000.000"
+    },
+    {
+      "id": "4",
+      "name": "Phone 13",
+      "description": "iphone 13 mới 99%",
+      "price": "20.000.000"
+    },
+    {
+      "id": "5",
+      "name": "Phone 14",
+      "description": "iphone 14 mới 100%",
+      "price": "21.000.000"
+    },
+    {
+      "id": "6",
+      "name": "Phone 15",
+      "description": "iphone 15 mới 100%",
+      "price": 12
+    }
+  ]
+}
